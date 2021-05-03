@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Will Seese
 - 👀 I’m interested in full-stack web and/or software development
 - 🌱 I’m currently expanding on my knowledge of fullstack JavaScript (TypeScript included), and hope to soon move into learning other languages such as C# and Python.
-- 💞️ I’m looking for a job! I will soon be updating this README with a link to my site with more info about myself, my portfolio, and resume!
+- 💞️ I’m looking for a job! Check out my resume and portfolio at www.willseese.com!
 - 📫 How to reach me ... You can email me at willxj36@gmail.com.
